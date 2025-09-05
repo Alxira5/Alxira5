@@ -3,8 +3,8 @@
 ![Header](header.png)
 
 My name is Guillermo Brito or also known as Alxira5, I am software developer
-and a digital artist, I am also a defender of free culture and that is why all
-my projects are free.
+and a digital artist, and I also love to play retro video games or some mod
+of a video game that I like.
 
 I joined GitHub to host my projects and contribute to others, which is usually
 very simple or a little crazy, but it is usually useful in some cases or a
